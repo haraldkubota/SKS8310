@@ -10,4 +10,7 @@ While the formatting is severely screwed up, I can search and find things.
 
 I asked XikeStor for an English CLI manual, but I have yet to receive a response.
 
-I claim zero copyright on the manual. I add the original Chinese one here for reference only.
+## Update
+
+Few days and 2 emeails later, I received the English CLI manual from XikeStor!
+
